@@ -1,1 +1,13 @@
-ikaw n gumawa
+*.exe
+*.out
+*.app
+
+
+*.o
+*.obj
+
+
+.vscode/
+.idea/
+*.layout
+*.depend
