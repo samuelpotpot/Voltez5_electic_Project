@@ -1,1 +1,0 @@
-tulad kanina
