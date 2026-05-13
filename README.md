@@ -10,11 +10,7 @@ The system allows users to input appliance details including appliance name, wat
 
 Members:
 Castro Vedal Jjr B.
-
 Sentasas, Johndyl Glance C.
-
 Tiu, Charles Jayzee Lei M.
-
 Serrano, Samuel Johnley B.
-
 Aceveda, Jayrol H.
