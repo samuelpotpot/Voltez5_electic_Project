@@ -1,10 +1,15 @@
-#ifndef FUNCTIONS_H
-#define FUNCTIONS_H
-
+#include <iostream>
+#include <fstream>
 #include <string>
+#include <vector>
+#include <iomanip>
+
 using namespace std;
 
-void inputData(string names[], float watts[], float hours[], int size);
-void computeUsage(float watts[], float hours[], float usage[], int size, float &total);
+struct Appliance {
+    string name;
+    double watts;
+    double hours;
+};
 
-#endif
+string currentUser = "";
