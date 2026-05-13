@@ -9,6 +9,7 @@ Key Features:
 The system allows users to input appliance details including appliance name, wattage, and hours of usage. It calculates electricity consumption in kilowatt-hours (kWh) and estimates the total electricity cost based on usage. The program also provides energy-saving recommendations to help users reduce electricity expenses and reach their savings goals. In addition, the system includes input validation to prevent invalid entries and displays all recorded appliance data for easier monitoring and review. The project uses a menu-driven interface that enables users to easily navigate different functions such as data input, computation, report generation, and program exit.
 
 Members:
+
 Castro Vedal Jjr B.
 
 Sentasas, Johndyl Glance C.
