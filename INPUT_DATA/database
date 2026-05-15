@@ -1,1 +1,22 @@
-data para sa data
+=====================================
+USER DATA
+=====================================
+Username: jayrol
+Savings Goal: PHP 1000
+
+APPLIANCES:
+
+Appliance #1
+Name: dasd
+Wattage: 123 W
+Hours Used: 12 hours
+
+Appliance #2
+Name: awd
+Wattage: 31 W
+Hours Used: 31 hours
+
+TOTAL USAGE: 2.437 kWh
+ESTIMATED COST: PHP 29.244
+STATUS: Within savings goal
+=====================================
